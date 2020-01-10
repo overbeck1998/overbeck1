@@ -1,0 +1,43 @@
+/*
+
+CSS = Cascading Style Sheet
+This index.css file is not only applied to index.html
+but it is applied to every html-document which refers to it via link
+*/
+
+#Firsth1 {
+  color: brown; /* Estilo do primeiro Headline. Cor Marrom*/
+}
+#Secondh1 {
+  color: yellow; /* Estilo do segundo headline. Cor amarela*/
+}
+.Second {
+  color: chartreuse; /* Estilo do Segundo Parágrafo. Cor alguma coisa aí*/
+}
+.Third {
+  color: red;
+  background-color: aqua; /* Estilo do Terceiro Parágrafo. Cor vermelha, cor do BG azul, margem de 200px da esquerda*/
+  margin-left: 200px;
+}
+.Fourth {
+  color: sienna;
+  background-color: blue; /* Estilo do Quarto Parágrafo. Cor sienna, cor do BG azul*/
+}
+div {
+  background-color: blue; /* Estilo do DIV(onde está a caixa. Cor azul, cor do BG preto, margem de 450px da esquerda e da direita*/
+  color: black;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+.box-model-test {
+  color: white; /* Cor do texto escrito dentro da caixa*/
+  width: 180px; /*Largura da caixa*/
+  height: 180px; /* Altura da Caixa*/
+  padding-left: 75px; /*Posicionamento do preenchimento*/
+  border: 10px; /*Tamanho da borda */
+  border-color: red; /*Cor da borda*/
+  border-style: solid; /* Estilo da Borda */
+  border-radius: 35px; /* Raio da borda(quando maior, mais perto de um círculo) */
+  margin: 40px; /* Margem dada das bordas da página*/
+}

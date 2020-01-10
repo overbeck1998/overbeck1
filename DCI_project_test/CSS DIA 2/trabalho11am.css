@@ -1,0 +1,56 @@
+.First {
+  width: 80px;
+  height: 80px;
+  margin: 20px;
+  padding: 10px;
+  border: 10px;
+  border-style: solid;
+  border-radius: 80px;
+  border-color: black;
+  color: red;
+  background-color: blue;
+}
+.Second {
+  width: 180px;
+  height: 280px;
+  margin: 50px;
+  padding: 30px;
+  border: 50px;
+  border-radius: 15px;
+  border-style: solid;
+  color: blue;
+  background-color: yellow;
+}
+.Third {
+  width: 10px;
+  height: 5px;
+  margin: 2px;
+  padding: 1px;
+  border: 10px;
+  border-radius: 1px;
+  border-style: solid;
+  color: green;
+  background-color: black;
+}
+.Fourth {
+  width: 1000px;
+  height: 800px;
+  margin: 200px;
+  padding: 100px;
+  border: 100px;
+  border-radius: 150px;
+  border-style: solid;
+  color: darkgoldenrod;
+  background-color: pink;
+}
+.Fifth {
+  width: 150px;
+  height: 390px;
+  margin: 150px;
+  padding: 100px;
+  border: 10px;
+  border-radius: 90px;
+  border-style: solid;
+  color: pink;
+  background-color: orangered;
+}

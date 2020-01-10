@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-flow: row;
+  min-height: 50px;
+}
+.left {
+  flex: 1;
+  background-color: blue;
+}
+.main {
+  width: 60%;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.col {
+  margin: 2px;
+}
+.top {
+  background: yellow;
+}
+.middle {
+  background: pink;
+}
+.bottom {
+  background: cyan;
+}
+
+.right {
+  flex: 2;
+  background-color: green;
+}

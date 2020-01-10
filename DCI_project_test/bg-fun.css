@@ -1,0 +1,61 @@
+.bg-test {
+  height: 100vh;
+  background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7d7d5961495739.5a7092616e488.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+body {
+  margin: 0px;
+}
+.text-shadow {
+  text-shadow: silver 3px 3px 5px;
+}
+.shadow {
+  width: 20rem;
+  background-color: white;
+  box-shadow: 5px 5px 15px black;
+  border-radius: 1rem;
+}
+#shadowtext {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding-top: 1rem;
+}
+h1 {
+  justify-content: center;
+}
+h2 {
+  justify-content: center;
+}
+#controller {
+  justify-content: center;
+}
+.mountain-img {
+  max-width: 35%;
+  max-height: 100%;
+  border-radius: 1rem;
+}
+.mountain-card {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  margin-left: 15px;
+}
+.buynow {
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+}
+.buynow2 {
+  text-decoration: none;
+  color: blue;
+}
+.buynow3 {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
